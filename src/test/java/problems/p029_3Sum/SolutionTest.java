@@ -1,7 +1,6 @@
-package problems;
+package problems.p029_3Sum;
 
 import org.junit.jupiter.api.Test;
-import problems.p029_3Sum.Solution;
 
 import java.util.ArrayList;
 import java.util.List;
